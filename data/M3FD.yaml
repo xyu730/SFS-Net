@@ -1,0 +1,8 @@
+path: /root/autodl-tmp/SFS-Net/datasets/M3FD  # dataset root dir
+train: images/visible/train  # train images
+val: images/visible/test  # val images
+test:  # test images (optional)
+
+# Classes
+nc: 6  # number of classes
+names: ['person', 'car', 'bus', 'motorcycle', 'lamp', 'truck'] # class names
